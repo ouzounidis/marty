@@ -11,7 +11,7 @@
 ## Quick start
 
 ```
-make build        # rebuild source
+make build        # rebuild source jsgdhsdghs
 make docs         # show documentation on http://localhost:4000
 ```
 
