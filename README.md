@@ -7,7 +7,7 @@
 [![Join the chat at https://gitter.im/martyjs/marty](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/martyjs/marty?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/jhollingworth.svg)](https://saucelabs.com/u/jhollingworth)
-
+ 
 ## Quick start
 
 ```
