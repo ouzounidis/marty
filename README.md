@@ -8,7 +8,7 @@
 
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/jhollingworth.svg)](https://saucelabs.com/u/jhollingworth)
  
-## Quick start
+## Quick start  
 
 ```
 make build        # rebuild source jsgdhsdghs
