@@ -47,7 +47,7 @@ A TypeScript definition is available at `marty.d.ts`. Please note that it requir
     * :white_check_mark: `:white_check_mark:` when adding tests
     * :lock: `:lock:` when dealing with security
     * :arrow_up: `:arrow_up:` when upgrading dependencies
-    * :arrow_down: `:arrow_down:` when downgrading dependencies
+    * :arrow_down: `:arrow_down:` when downgrading dependencies 
 
 (From [atom](https://atom.io/docs/latest/contributing#git-commit-messages))
 
